@@ -1,7 +1,5 @@
 # OPTION 3: GROWTH ANALYST 
 
-This repository contains my completed tasks for the given assessment. The work is divided into **two deliverables**: PDF (Tasks 1 & 2) and Excel (Tasks 3 & 4).
-
 
 
 ## ✅ Part 1 — Prompt Engineering for Mass Personalization (in PDF)
