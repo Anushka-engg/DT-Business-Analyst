@@ -2,9 +2,6 @@
 
 This repository contains my completed tasks for the given assessment. The work is divided into **two deliverables**: PDF (Tasks 1 & 2) and Excel (Tasks 3 & 4).
 
----
-
-You’re right—thanks for the correction. Here’s a **clean, accurate README** that matches the exact brief and your file split (**Tasks 1–2 in PDF, Tasks 3–4 in Excel**).
 
 
 ## ✅ Part 1 — Prompt Engineering for Mass Personalization (in PDF)
@@ -22,7 +19,7 @@ You’re right—thanks for the correction. Here’s a **clean, accurate README*
 * **Prompt 1**: Persona, AIDCA-annotated sections, Cialdini tags, negative prompt.
 * **Prompt 2**: Persona, AIDCA-annotated sections, Cialdini tags, negative prompt.
 
----
+
 
 ## ✅ Part 2 — Funnel Debugging via Prompt-Based Diagnosis (in PDF)
 
@@ -49,7 +46,7 @@ You’re right—thanks for the correction. Here’s a **clean, accurate README*
 
 * A compact table of **3 simulated scenarios** + **diagnosis** + **fix prompts** + **justifications**.
 
----
+
 
 ## ✅ Part 3 — Dashboard Design with Boardroom Intent (in Excel)
 
@@ -79,7 +76,7 @@ You’re right—thanks for the correction. Here’s a **clean, accurate README*
 
 * **Sheets**: `Funnel`, `AIDCA_Diagnosis`, `Recommendations` (labels may vary but content follows this structure).
 
----
+
 
 ## ✅ Part 4 — Strategic Summary (≤ 200 words) (in Excel)
 
